@@ -52,7 +52,7 @@ Una vez el entorno esté configurado por el equipo, podrás ejecutar el proyecto
 3. **Lanzar el servidor de desarrollo:**
   ```bash
    npm run dev
-
+  ```
 ---
 
 ### 👩‍💻 Equipo de Desarrollo
