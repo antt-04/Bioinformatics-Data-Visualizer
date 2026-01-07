@@ -51,7 +51,7 @@ Una vez el entorno esté configurado por el equipo, podrás ejecutar el proyecto
    npm install
 3. **Lanzar el servidor de desarrollo:**
    ```bash
-   npm install
+   npm run dev
    ```
 ---
 
