@@ -54,10 +54,4 @@ Una vez el entorno esté configurado por el equipo, podrás ejecutar el proyecto
    npm run dev
    ```
 ---
-
-### 👩‍💻 Equipo de Desarrollo
-
-Este proyecto nace de una colaboración técnica enfocada en la intersección de la **biotecnología** y el **desarrollo web moderno**. Nuestro objetivo es democratizar el acceso a herramientas de análisis bioinformático complejas, llevándolas directamente al navegador de forma intuitiva y eficiente.
-
-Desarrollado con ❤️ para la comunidad científica y tecnológica.
-
+*Desarrollado con ❤️ para el mundo de la Bioinformática.*
