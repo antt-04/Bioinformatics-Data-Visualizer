@@ -48,7 +48,11 @@ Una vez el entorno esté configurado por el equipo, podrás ejecutar el proyecto
    git clone [https://github.com/tu-usuario/bio-data-visualizer.git](https://github.com/tu-usuario/bio-data-visualizer.git)
 2. **Instalar dependencias:**
    ```bash
+   nodejs npm
+   ```
+   ```bash
    npm install
+   ```
 3. **Lanzar el servidor de desarrollo:**
    ```bash
    npm run dev
