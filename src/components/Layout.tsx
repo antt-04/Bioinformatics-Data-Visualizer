@@ -1,4 +1,4 @@
-import { FileText, BarChart3, Cpu } from 'lucide-react';
+import { FileText, BarChart, Cpu } from 'lucide-react';
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -19,23 +19,23 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         <nav className="flex-1 px-4 py-6 space-y-2">
           <a
             href="/"
-            className="flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-primary/5 text-gray-600 hover:text-primary transition-colors group"
+            className="flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-[#2b6765]/5 text-gray-600 hover:text-[#2b6765] transition-colors group"
           >
-            <FileText size={20} className="text-gray-400 group-hover:text-primary transition-colors" />
+            <FileText size={20} className="text-gray-400 group-hover:text-[#2b6765] transition-colors" />
             <span className="font-medium">Secuencias</span>
           </a>
           <a
             href="/expression"
-            className="flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-primary/5 text-gray-600 hover:text-primary transition-colors group"
+            className="flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-[#2b6765]/5 text-gray-600 hover:text-[#2b6765] transition-colors group"
           >
-            <BarChart3 size={20} className="text-gray-400 group-hover:text-primary transition-colors" />
+            <BarChart size={20} className="text-gray-400 group-hover:text-[#2b6765] transition-colors" />
             <span className="font-medium">Expresión</span>
           </a>
           <a
             href="/3d"
-            className="flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-primary/5 text-gray-600 hover:text-primary transition-colors group"
+            className="flex items-center space-x-3 px-4 py-3 rounded-lg hover:bg-[#2b6765]/5 text-gray-600 hover:text-[#2b6765] transition-colors group"
           >
-            <Cpu size={20} className="text-gray-400 group-hover:text-primary transition-colors" />
+            <Cpu size={20} className="text-gray-400 group-hover:text-[#2b6765] transition-colors" />
             <span className="font-medium">Estructura 3D</span>
           </a>
         </nav>
